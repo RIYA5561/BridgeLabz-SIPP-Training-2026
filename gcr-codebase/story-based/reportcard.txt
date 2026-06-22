@@ -1,0 +1,9 @@
+Student Name : Riya
+Average Marks : 85.0
+-------------------------
+Student Name : Aman
+Average Marks : 75.0
+-------------------------
+Student Name : Priya
+Average Marks : 91.66666666666667
+-------------------------
